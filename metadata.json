@@ -1,0 +1,5 @@
+{
+  "name": "PolyGrid: Shape Battle",
+  "description": "A strategic turn-based board game where players compete to place polyomino shapes on a shared grid.",
+  "requestFramePermissions": []
+}
